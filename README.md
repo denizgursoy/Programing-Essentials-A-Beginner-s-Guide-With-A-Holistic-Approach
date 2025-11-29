@@ -13,8 +13,3 @@ Compared to other programming books, you'll also learn:
 - Basic Linux commands
 - How to develop code via the terminal without complex tools
 - How to access course materials and settings using Docker to ensure consistency across different environments
-
-## Order
-The book is available on all major marketplaces.
-
-Visit [Amazon](https://www.amazon.com/dp/B0F9TYP81S)
